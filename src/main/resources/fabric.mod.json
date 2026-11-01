@@ -1,0 +1,21 @@
+{
+    "schemaVersion": 1,
+    "id": "modid",
+    "version": "${version}",
+    "name": "Demo Disabler",
+    "description": "Mod para Minecraft 26.2",
+    "environment": "*",
+    "mixins": [
+        "modid.mixins.json",
+        {
+            "config": "modid.client.mixins.json",
+            "environment": "client"
+        }
+    ],
+    "depends": {
+        "fabricloader": ">=0.19.5",
+        "minecraft": "~26.3",
+        "java": ">=25",
+        "fabric-api": "*"
+    }
+}

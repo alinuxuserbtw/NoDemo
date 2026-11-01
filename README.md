@@ -8,3 +8,4 @@ THINGS IT CANT DO :
 Playing on non-cracked servers : This is a real limitation , sorry :(
 
 This needs Fabric API.
+Inspired by DedInc/DemoDisabler (Forge 1.16.5), go check his mod :).

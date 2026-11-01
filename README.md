@@ -2,6 +2,10 @@
 
 Hi :) NoDemo is a project made by myself. It removes the Minecraft demo mode limitations.
 
+## Download (stable)
+
+**Minecraft 26.3:** [NoDemo V1.0.1](https://github.com/gaspargames04-dot/NoDemo/releases/tag/v1.0.1)
+
 ## Requirements
 
 - Fabric Loader

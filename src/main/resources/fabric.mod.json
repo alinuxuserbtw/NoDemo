@@ -1,0 +1,22 @@
+{
+    "schemaVersion": 1,
+    "id": "modid",
+    "version": "${version}",
+    "name": "NoDemo",
+    "description": "NoDemo for Minecraft 26.3.",
+    "icon": "assets/modid/icon.png",
+    "environment": "*",
+    "mixins": [
+        "modid.mixins.json",
+        {
+            "config": "modid.client.mixins.json",
+            "environment": "client"
+        }
+    ],
+    "depends": {
+        "fabricloader": "*",
+        "minecraft": "~26.3",
+        "java": ">=25",
+        "fabric-api": "*"
+    }
+}

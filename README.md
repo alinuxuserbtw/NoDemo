@@ -23,3 +23,4 @@ The jar will be in `build/libs/`. If you don't want to compile it, download the 
 ## Credits
 
 Inspired by [DedInc/DemoDisabler](https://github.com/DedInc/DemoDisabler) (Forge 1.16.5), go check his mod :)
+(URL for the Beta of 1.16.5 , 1.20.1 , 26.2 and 26.4 Snapshot 6 : https://github.com/gaspargames04-dot/NoDemo/releases/tag/beta_jar-v1.0.0

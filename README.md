@@ -11,8 +11,8 @@ Hi :) NoDemo is a project made by myself. It removes the Minecraft demo mode lim
 
 ## Things it can't do
 
-- **Custom username:** install an in-game offline account manager, or (in some cases) use your launcher.
-- **Playing on non-cracked servers:** this is a real limitation, sorry :(
+- **Custom username:** It is recommended to install an in-game offline account manager, or (in some cases) use your launcher.
+- **Playing on non-cracked servers:** This is a real limitation, sorry :(
 
 ## Building
 
